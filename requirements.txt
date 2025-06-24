@@ -1,0 +1,9 @@
+streamlit
+streamlit-autorefresh
+pandas
+requests
+plotly
+akshare
+joblib
+numpy
+time
